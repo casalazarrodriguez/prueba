@@ -1,0 +1,15 @@
+{
+  "id": "#(Vid)",
+  "category": {
+    "id": 0,
+    "name": "#(Vcategory)"
+  },
+  "name": "#(Vname)",
+  "photoUrls": ["string"],
+  "tags": [{
+    "id": 0,
+    "name": "#(Vstring)"
+  }
+  ],
+  "status": "#(Vstatus)"
+}

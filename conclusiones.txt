@@ -1,0 +1,5 @@
+Conclusiones:
+1.	La automatización realizada es capaz de registrar datos y añadirlos a la tienda.
+2.	Realiza consulta de la mascota por código ID.
+3.	Actualiza datos como nombre y status en caso se haya vendido.
+4.	Realiza consulta por status los datos actualizados de la mascota.
